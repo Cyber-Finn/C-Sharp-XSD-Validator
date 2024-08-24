@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore xmlns="http://www.contoso.com/books"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.contoso.com/books book.xsd">
+  <book genre="Fiction" publicationdate="2023-05-01" ISBN="978-1234567890">
+    <title>The Great Novel</title>
+    <author>
+      <name>John Doe</name>
+      <first-name>John</first-name>
+      <last-name>Doe</last-name>
+    </author>
+    <price>29.99</price>
+  </book>
+</bookstore>

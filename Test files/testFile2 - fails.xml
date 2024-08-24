@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore xmlns="http://www.contoso.com/books"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.contoso.com/books book.xsd">
+  <book publicationdate="2023-05-01" ISBN="978-9876543210">
+    <title>Another Book</title>
+    <author>
+      <name>Jane Smith</name>
+    </author>
+    <price>19.99</price>
+  </book>
+</bookstore>
